@@ -1,36 +1,31 @@
 # projeto4-modelagem-de-um-pequeno-sistema-com-uml-e-bpmn
 # equipe:
 
-*Ana Beatriz castro
+_Ana Beatriz castro_
 
-*Rosiele Sousa
+_Rosiele Sousa_
 
 **Modelagem UML**
++____________________________________________________________________________________________________________________________________________________________________________+
+*reserva*                                              *sala*                                                     *usuário*
 
-*reserva*
-
-+---------------------------------------+
++---------------------------------------+              +--------------------------------------+                   +----------------------------------------+
 
 
-*id: int
+-id: int                                               -id:                                                       -email: string
+-data: date                                            -capacidade:                                               -CPF: int
+-local: String                                         -numero:                                                   -nome: string
+-horarioInicial: Time                                                                                              
+-horarioFinal: Time
+-status: String
 
-*data: date
++---------------------------------------+              +--------------------------------------+                   +-----------------------------------------+
 
-*local: String
+confirmar reserva()                                     sala disponíveis()                                          cacelar a reserva()
 
-*horarioInicial: Time
+cancelar reserva()                                      listar reserva()                                            cadrastar()
 
-*horarioFinal: Time
++----------------------------------------+             +--------------------------------------+                   +------------------------------------------+
 
-*status: String
-
-+---------------------------------------+
-
-confirmar reserva()
-
-cancelar reserva()
-
-+----------------------------------------+
-
-+------------------------------------------+
++______________________________________________________________________________________________________________________________________________________________________________+
 
