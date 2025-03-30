@@ -12,11 +12,16 @@ _Rosiele Sousa_
 +---------------------------------------+              +--------------------------------------+                   +----------------------------------------+
 
 
--id: int                                               -id:                                                       -email: string
--data: date                                            -capacidade:                                               -CPF: int
--local: String                                         -numero:                                                   -nome: string
--horarioInicial: Time                                                                                              
+-id: int 
+                                                       -id:                                                        -email: string
+-data: date
+                                                       -capacidade:                                                -CPF: int
+-local: String    
+                                                        -numero:                                                   -nome: string
+-horarioInicial: Time    
+                                                                                          
 -horarioFinal: Time
+
 -status: String
 
 +---------------------------------------+              +--------------------------------------+                   +-----------------------------------------+
