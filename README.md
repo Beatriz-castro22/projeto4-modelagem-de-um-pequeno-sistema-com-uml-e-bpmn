@@ -8,12 +8,18 @@
 **Modelagem UML**
 
 *reserva*
-
++---------------------------------------+
 _atributos de uma reserva_
 
 *id: int
+
 *data: date
+
 *local: String
+
 *horarioInicial: Time
+
 *horarioFinal: Time
+
 *status: String
++---------------------------------------+
