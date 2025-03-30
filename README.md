@@ -8,8 +8,9 @@
 **Modelagem UML**
 
 *reserva*
+
 +---------------------------------------+
-_atributos de uma reserva_
+
 
 *id: int
 
@@ -22,4 +23,14 @@ _atributos de uma reserva_
 *horarioFinal: Time
 
 *status: String
+
 +---------------------------------------+
+
+confirmar reserva()
+
+cancelar reserva()
+
++----------------------------------------+
+
++------------------------------------------+
+
