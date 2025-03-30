@@ -1,7 +1,15 @@
 # projeto4-modelagem-de-um-pequeno-sistema-com-uml-e-bpmn
-#equipe:
+# equipe:
+
 *Ana Beatriz castro
+
 *Rosiele Sousa
 
 **Modelagem UML**
-*reserva
+
+*reserva*
+
++-------------------------------------------------------+
+
+               **Reseva**
++-------------------------------------------------------+
