@@ -9,7 +9,11 @@
 
 *reserva*
 
-+-------------------------------------------------------+
+_atributos de uma reserva_
 
-               **Reseva**
-+-------------------------------------------------------+
+*id: int
+*data: date
+*local: String
+*horarioInicial: Time
+*horarioFinal: Time
+*status: String
